@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi there, I'm Lucas 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naasgul&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
